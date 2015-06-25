@@ -8,7 +8,6 @@ date_default_timezone_set('Europe/Amsterdam');
 //database credentials
 define('DBHOST','mysql.hostinger.nl');
 define('DBUSER','u654405693_portf');
-define('DBPASS','kozakken1997');
 define('DBNAME','u654405693_portf');
 
 //application address
